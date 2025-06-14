@@ -1,0 +1,17 @@
+Here is the SOAP note based on the provided transcript:
+
+**SOAP Note**
+
+**Subjective:**
+Patient reports shortness of breath while laying down, worsening over time. Describes feeling like they can't catch their breath even after resting. Reports a history of heart attack and high cholesterol.
+
+**Objective:**
+* Vital signs: Not reported
+* Symptoms: Shortness of breath, wheezing (described by the patient as standing around all day)
+* Medications: Aspirin, ramipril, simistatin
+
+**Assessment:**
+Possible congestive heart failure given history of heart attack and high cholesterol. Need further investigation to determine cause.
+
+**Plan:**
+Refer patient for further investigations to rule out congestive heart failure. Consider medication adjustment or initiation of diuretics (e.g. Lasix) to manage fluid buildup in body. Follow-up appointment scheduled to discuss results and plan next steps.

@@ -1,0 +1,177 @@
+[0.0 - 1.3] SPEAKER_02: what brings you in here today.
+[3.0 - 11.4] SPEAKER_01: Um, yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out.
+[12.7 - 16.0] SPEAKER_02: Okay, and when did you first start feeling breathless?
+[16.8 - 18.1] SPEAKER_01: About two months ago.
+[17.9 - 18.2] SPEAKER_02: go.
+[19.9 - 25.6] SPEAKER_02: Okay, I did it. come on about like gradually through time or suddenly just happen.
+[27.0 - 30.2] SPEAKER_01: I guess gradually, yeah.
+[31.3 - 31.7] SPEAKER_02: Okay.
+[32.8 - 33.3] SPEAKER_02: and
+[34.6 - 38.2] SPEAKER_02: How often do you feel breathless?
+[39.8 - 51.4] SPEAKER_01: I'd say it's worse when I walk more than 50 meters. That's kind of the main trigger, just exertion.
+[52.7 - 58.7] SPEAKER_02: And were you able to walk normally more than 50 meters? before two ones.
+[60.1 - 61.9] SPEAKER_01: Yeah, three months ago I was fine.
+[63.2 - 63.7] SPEAKER_01: Okay.
+[65.5 - 68.5] SPEAKER_02: And do you have any other symptoms like cough or chest pain?
+[70.2 - 72.3] SPEAKER_01: I have a cough sometimes, yeah.
+[73.5 - 76.4] SPEAKER_02: Okay, but nothing like constant.
+[77.1 - 77.1] SPEAKER_01: you
+[77.1 - 77.6] SPEAKER_00: No.
+[78.8 - 79.1] SPEAKER_02: Okay.
+[80.0 - 89.6] SPEAKER_02: and Do you have? any wet cough or any productive cough or urine. Um, producing like sputum or phlegm.
+[90.7 - 94.3] SPEAKER_01: Yeah, I guess I'd say I have this frothy sputum.
+[95.9 - 96.3] SPEAKER_02: Okay.
+[98.0 - 103.4] SPEAKER_02: And has your breathlessness been getting any worse at all over the last two months?
+[104.7 - 106.3] SPEAKER_01: I would say so, yes.
+[107.7 - 118.6] SPEAKER_02: Okay. And you mentioned like exertion makes it worse, but anything else like going outside or exposure to any chemicals that makes it worse.
+[120.5 - 122.6] SPEAKER_01: Mmm, I know, I don't think so.
+[123.7 - 128.2] SPEAKER_02: Thank you. Thank you. And how about positional changes? Does lying flat at all make it worse?
+[129.7 - 135.6] SPEAKER_01: I would say so, yes. Yeah, I'm basically gasping for air when I laid. lay down
+[137.0 - 141.7] SPEAKER_02: And do you ever find yourself waking up at night in the middle of the night to- Catch your breath.
+[142.6 - 143.1] SPEAKER_01: No.
+[144.2 - 145.0] SPEAKER_02: No? Okay.
+[146.1 - 153.0] SPEAKER_02: And when do you feel the breathlessness? the most, is it more so during the day or at night?
+[154.4 - 157.4] SPEAKER_01: I guess it's worse at night because I'm laying down.
+[158.6 - 159.1] SPEAKER_02: Okay.
+[161.6 - 163.1] SPEAKER_02: Great. failed
+[164.6 - 171.3] SPEAKER_02: In terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number?
+[172.6 - 174.5] SPEAKER_01: Mmm, I'd say like...
+[176.5 - 177.4] SPEAKER_01: 3, 4.
+[179.0 - 180.3] SPEAKER_02: three or four steps? Okay.
+[180.3 - 180.7] SPEAKER_01: Mm-hmm.
+[183.2 - 198.6] SPEAKER_02: and Was there anything... that happened in your life recently, any... new medical diagnosis recently. or any travel that happened before you started having these symptoms.
+[200.1 - 201.7] SPEAKER_01: No, nothing like that.
+[203.0 - 208.0] SPEAKER_02: Okay. And prior to the two months, have you ever had any similar experiences?
+[209.4 - 211.8] SPEAKER_01: PT heir, No.
+[211.6 - 211.9] SPEAKER_02: you
+[212.6 - 213.0] SPEAKER_01: Okay.
+[214.5 - 222.4] SPEAKER_02: and Does anything make it better? Like any positional changes makes the breathlessness go away?
+[224.0 - 233.8] SPEAKER_01: Um... I guess when I... I'm not laying down or when I'm laying down I try to add pillows, stack pillows so that it gets better.
+[235.0 - 235.4] SPEAKER_00: Okay.
+[237.3 - 246.5] SPEAKER_02: Okay, and are you having any other symptoms like... sore throat, runny nose, chest pain, dizziness, anything like that.
+[247.8 - 248.4] SPEAKER_00: down.
+[249.3 - 250.2] SPEAKER_02: Yeah. Okay.
+[251.9 - 254.9] SPEAKER_02: Have you recently traveled outside of the country?
+[255.9 - 256.3] SPEAKER_00: No.
+[256.3 - 256.3] SPEAKER_01: you
+[257.3 - 260.3] SPEAKER_02: RADIO UPDATE Have you recently had any surgeries?
+[261.5 - 263.3] SPEAKER_01: I know recent surgeries, no.
+[264.2 - 266.7] SPEAKER_02: you Any headache, nausea, or vomiting?
+[268.2 - 269.1] SPEAKER_00: Umm... No.
+[270.8 - 273.8] SPEAKER_02: you any fevers or chills or night sweats.
+[274.9 - 275.4] SPEAKER_00: No.
+[276.9 - 277.1] SPEAKER_02: Thank you.
+[278.1 - 280.7] SPEAKER_02: Do you feel increasingly fatigued throughout the day?
+[281.8 - 281.8] SPEAKER_00: 
+[281.8 - 281.9] SPEAKER_01: you
+[281.9 - 282.0] SPEAKER_00: you
+[282.0 - 282.5] SPEAKER_01: Bye
+[283.7 - 286.4] SPEAKER_01: No, ah, yes, I would say so, yeah.
+[290.7 - 292.7] SPEAKER_02: and any changes in your bowel movements at all.
+[293.3 - 293.7] SPEAKER_00: No.
+[295.1 - 296.5] SPEAKER_02: Okay. and
+[297.9 - 300.5] SPEAKER_02: any chest pain at all within the last two months.
+[302.0 - 304.1] SPEAKER_01: Uh, no, no chest pain.
+[306.2 - 312.2] SPEAKER_02: any swelling in your legs, ankles, or in your hands and arms.
+[313.6 - 316.6] SPEAKER_01: Mmm... there is some swelling.
+[318.1 - 321.1] SPEAKER_02: Okay, and where are you getting this falling?
+[321.9 - 323.3] SPEAKER_01: Around my leg.
+[324.9 - 327.5] SPEAKER_02: Okay, and how, when did you first notice this?
+[328.2 - 330.6] SPEAKER_01: Around the same time actually, two months ago.
+[332.0 - 332.5] SPEAKER_02: Okay.
+[333.9 - 336.1] SPEAKER_02: Have you noticed any kind of fevers at all?
+[337.6 - 338.7] SPEAKER_00: Mmm, no.
+[339.7 - 344.2] SPEAKER_02: Yeah, okay. Have you been in contact with anyone that has been ill recently?
+[345.9 - 347.1] SPEAKER_00: No. No.
+[348.2 - 351.7] SPEAKER_02: you And have you been coughing up any blood at all?
+[352.7 - 353.2] SPEAKER_00: No.
+[354.4 - 356.1] SPEAKER_02: Okay, any weight loss?
+[357.4 - 357.8] SPEAKER_00: No.
+[359.2 - 362.3] SPEAKER_02: any night sweats or chills
+[363.4 - 363.7] SPEAKER_00: No.
+[365.1 - 370.9] SPEAKER_02: Okay. Any, apart from the breathlessness and laying down, any other issues with your sleep?
+[371.8 - 371.9] SPEAKER_00: you
+[371.9 - 371.9] SPEAKER_01: you
+[371.9 - 372.8] SPEAKER_00: No.
+[374.2 - 375.6] SPEAKER_02: any changes in your appetite.
+[377.0 - 377.5] SPEAKER_00: below.
+[378.8 - 382.8] SPEAKER_02: Okay. Have you had any recent infections like a cold at all?
+[384.2 - 384.8] SPEAKER_00: Nope
+[386.5 - 390.1] SPEAKER_02: Okay. any exposure to tuberculosis in the past.
+[391.3 - 392.3] SPEAKER_01: Not that I know of.
+[393.3 - 400.3] SPEAKER_02: Okay. any exposure to fumes or dust within your home. work environment.
+[400.9 - 401.4] SPEAKER_00: No.
+[402.8 - 403.1] SPEAKER_02: Okay.
+[404.3 - 406.1] SPEAKER_02: any animals or pets in the house.
+[407.5 - 409.2] SPEAKER_00: Mmm, nope. No.
+[411.2 - 422.8] SPEAKER_02: And in terms of your past medical history, has anyone told you that you have anything like COPD? or any cardiovascular issues like high blood pressure. cholesterol.
+[424.2 - 425.4] SPEAKER_01: And so.
+[427.1 - 432.3] SPEAKER_01: Yeah, so I have high blood pressure, diabetes, and high cholesterol.
+[433.8 - 434.2] SPEAKER_02: Okay.
+[436.0 - 438.7] SPEAKER_02: And do you take any medications for this?
+[439.4 - 443.3] SPEAKER_01: Yep, so I take aspirin, ramipril and simistatin.
+[444.7 - 450.0] SPEAKER_02: Okay. And have you ever had any chest pain or a heart attack in the past?
+[451.1 - 453.8] SPEAKER_01: Yeah, actually I had a heart attack four years ago.
+[453.0 - 453.8] SPEAKER_02: years to come. . . . . .
+[455.2 - 460.3] SPEAKER_02: Okay. And do you remember what they did for your heart attack?
+[461.6 - 463.3] SPEAKER_01: something
+[463.3 - 463.5] SPEAKER_02: like
+[463.5 - 465.1] SPEAKER_01: Like a stent or something.
+[466.2 - 469.3] SPEAKER_02: Okay. and since then you have been on these medications.
+[469.7 - 470.1] SPEAKER_01: Yes.
+[471.5 - 471.7] SPEAKER_02: Okay.
+[473.0 - 480.2] SPEAKER_02: And after... They managed your heart attack. Have you ever had similar symptoms when you had your heart attack?
+[481.7 - 483.2] SPEAKER_01: Uh, no, no.
+[483.9 - 485.1] SPEAKER_02: Nothing like that? Okay.
+[486.9 - 489.4] SPEAKER_02: Do you have any allergies to any medications?
+[490.0 - 490.4] SPEAKER_00: No.
+[491.7 - 493.3] SPEAKER_02: any environmental allergies.
+[494.1 - 494.5] SPEAKER_00: now.
+[495.8 - 495.8] SPEAKER_02: you
+[495.8 - 496.6] SPEAKER_00: Okay. Thank you.
+[498.8 - 503.7] SPEAKER_02: And have you previously had any surgeries in the past?
+[505.3 - 507.8] SPEAKER_01: Um, I guess the stenting.
+[508.7 - 514.9] SPEAKER_02: Just the same thing. And apart from that, have you had any other previous hospitalizations?
+[515.4 - 515.9] SPEAKER_00: No.
+[517.2 - 523.9] SPEAKER_02: Okay. any family history of any cancers or heart attacks.
+[525.1 - 528.3] SPEAKER_01: My father died of a heart attack when he was 60.
+[529.6 - 530.2] SPEAKER_02: Okay.
+[531.5 - 534.7] SPEAKER_02: and currently. Um... Do you work at all?
+[535.9 - 540.6] SPEAKER_01: I do. I work as a cashier.
+[540.2 - 540.4] SPEAKER_02: year.
+[541.9 - 542.2] SPEAKER_02: Okay.
+[543.9 - 550.2] SPEAKER_02: and has the shortness of breath been affecting... your daily routine at home or at work at all.
+[551.2 - 554.2] SPEAKER_01: Yeah, I would say so. It's been hard too.
+[555.2 - 564.3] SPEAKER_01: make it to work and then standing around all day or if I have to go help out with something and exert myself too much I get short of breath.
+[565.6 - 571.4] SPEAKER_02: Okay. And at home, do you currently live with anyone or do you live by yourself?
+[572.6 - 574.2] SPEAKER_01: I live by myself.
+[575.2 - 577.9] SPEAKER_02: Okay. And do you live in an apartment or a house?
+[578.9 - 580.4] SPEAKER_01: I live in an apartment.
+[581.3 - 589.2] SPEAKER_02: Okay. And are there any exposures like dust or mold or asbestos in your home environment?
+[589.6 - 590.1] SPEAKER_00: No.
+[591.3 - 591.7] SPEAKER_02: Okay.
+[592.8 - 594.1] SPEAKER_02: and currently do smoke.
+[595.6 - 598.9] SPEAKER_01: Not right now. I used to smoke.
+[600.1 - 603.0] SPEAKER_01: I used to smoke 10 a day for like 40 years.
+[604.2 - 604.6] SPEAKER_02: Okay.
+[605.4 - 609.0] SPEAKER_02: And do you use any recreational drugs like marijuana?
+[609.7 - 610.2] SPEAKER_00: No.
+[611.7 - 614.7] SPEAKER_02: you any alcohol.
+[615.5 - 615.9] SPEAKER_00: No.
+[617.5 - 617.7] SPEAKER_02: Okay.
+[618.8 - 622.2] SPEAKER_02: And in terms of the... Uh...
+[623.1 - 629.7] SPEAKER_02: your daily routine, do you feel that you... get three meals a day, well-balanced diet.
+[631.2 - 637.7] SPEAKER_01: I would say well balanced. I'm trying to eat healthier, but it doesn't always happen
+[631.7 - 631.8] SPEAKER_02: 
+[638.9 - 645.9] SPEAKER_02: Okay. And how about exercise? Do you find that your exercise levels or activity levels have gone down in the last two months?
+[646.6 - 647.2] SPEAKER_01: Yes.
+[648.4 - 648.7] SPEAKER_02: Okay.
+[651.1 - 657.8] SPEAKER_02: Alright, is there any other questions or concerns that you have or something I may have missed? to ask you today.
+[659.0 - 661.0] SPEAKER_01: Um, no, I don't think so.
+[662.0 - 662.4] SPEAKER_02: Okay.
+[663.5 - 686.8] SPEAKER_02: So based on what we talked about from your swallowing as well as breathlessness while laying down in your past history of a heart attack. and high cholesterol. it. maybe likely with the medications you're on. as well as your history that you might be having. what's called a congestive heart failure. So...
+[686.2 - 686.8] SPEAKER_00: So...
+[687.4 - 698.6] SPEAKER_02: We will need to do further investigations. to determine if that is what it is. and if we need to get you on something like... Um...
+[700.0 - 710.0] SPEAKER_02: like Lasix or a diuretic to get rid of some of the fluid that's building up in your body. which may be caused by heart failure.
+[708.5 - 709.1] SPEAKER_00: Okay.
+[710.7 - 713.8] SPEAKER_02: So we'll do some investigations and then go from there.
