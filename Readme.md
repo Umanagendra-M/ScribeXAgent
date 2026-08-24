@@ -26,9 +26,6 @@ try:
 except ImportError:
     HAS_LANGGRAPH = False
 
-# ==========================================
-# 📋 CLINICAL SCHEMAS & DATA CONTRACTS
-# ==========================================
 
 class ExtractedVitals(BaseModel):
     pain_severity: Optional[str] = Field(None, description="Pain rating or severity (e.g. '7-8/10')")
@@ -56,9 +53,6 @@ class ScribeState(TypedDict):
     chat_history: List[Dict[str, str]]
     physician_preferences: Dict[str, Any]
 
-# ==========================================
-# 🛠️ STATE INGESTION BOUNDARY SANITIZER
-# ==========================================
 
 def convert_numpy_types(obj: Any) -> Any:
     """
@@ -88,13 +82,9 @@ def sanitize_node_output(node_fn):
         return result
     return wrapper
 
-# ==========================================
-# 🧠 ACTIVE GRAPH NODES (6-Node Multi-Agent Pipeline)
-# ==========================================
-
 @sanitize_node_output
 def transcription_node(state: ScribeState) -> Dict[str, Any]:
-    logger.info(f"🎙️ [Node: Transcription] Processing audio path: {state['audio_path']}")
+    logger.info(f" [Node: Transcription] Processing audio path: {state['audio_path']}")
     # Whisper ASR fallback/synthetic segments
     mock_segments = [
         {"start": 1.2, "end": 4.5, "text": "Hello, my chest has been hurting since last night, easily a 7 or 8 out of 10."}
@@ -111,7 +101,7 @@ def diarization_node(state: ScribeState) -> Dict[str, Any]:
 
 @sanitize_node_output
 def extraction_node(state: ScribeState) -> Dict[str, Any]:
-    logger.info("💊 [Node: Extraction] Parsing segments against ClinicalEntities contract...")
+    logger.info(" [Node: Extraction] Parsing segments against ClinicalEntities contract...")
     entities = ClinicalEntities(
         vitals=ExtractedVitals(pain_severity="7-8/10", temperature="38°C"),
         subjective_complaints=["sharp chest pain", "left-sided"],
@@ -122,7 +112,7 @@ def extraction_node(state: ScribeState) -> Dict[str, Any]:
 
 @sanitize_node_output
 def soap_node(state: ScribeState) -> Dict[str, Any]:
-    logger.info("📝 [Node: SOAP] Formatting clinical documentation...")
+    logger.info(" [Node: SOAP] Formatting clinical documentation...")
     entities = state.get("clinical_entities") or {}
     vitals = entities.get("vitals", {})
     
@@ -141,7 +131,7 @@ def soap_node(state: ScribeState) -> Dict[str, Any]:
 @sanitize_node_output
 def review_node(state: ScribeState) -> Dict[str, Any]:
     """Human-in-the-Loop review gate. Pauses graph execution for clinician approval."""
-    logger.info("🤝 [Node: Review] Enforcing HIL gate...")
+    logger.info(" [Node: Review] Enforcing HIL gate...")
     return {"current_node": "ReviewNode"}
 
 @sanitize_node_output
