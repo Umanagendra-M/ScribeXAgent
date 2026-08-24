@@ -136,12 +136,8 @@ def review_node(state: ScribeState) -> Dict[str, Any]:
 
 @sanitize_node_output
 def export_node(state: ScribeState) -> Dict[str, Any]:
-    logger.info("📂 [Node: Export] Bundling SOAP Note to EPIC/FHIR format...")
+    logger.info(" [Node: Export] Bundling SOAP Note to EPIC/FHIR format...")
     return {"export_status": "synced_fhir_v4", "current_node": "ExportNode"}
-
-# ==========================================
-# ⚙️ GRAPH ASSEMBLY & COMPILATION
-# ==========================================
 
 def compile_production_graph(checkpointer: Optional[Any] = None):
     if HAS_LANGGRAPH:
