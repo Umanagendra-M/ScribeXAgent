@@ -47,7 +47,7 @@ The local setup matches production boundaries. It encapsulates your **FastAPI Or
 
 ## 4. Cloud Infrastructure & AWS Architecture
 
-When shifting ScribeXAgent to a production environment on **AWS EKS**, we apply strict **Zero-Trust** security, **Least-Privilege** scoping, and **Elastic Scaling**.
+When shifting ScribeXAgent to a production environment on **AWS EKS**, applying strict **Zero-Trust** security, **Least-Privilege** scoping, and **Elastic Scaling**.
 
 ```
                NGINX / AWS Load Balancer Controller (Ingress)
